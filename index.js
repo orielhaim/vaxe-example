@@ -1,0 +1,1 @@
+const vaxe = require("vaxe")
