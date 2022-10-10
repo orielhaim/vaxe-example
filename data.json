@@ -1,0 +1,14 @@
+{
+  "/": {
+    "type": "content",
+    "value": "Hello world!",
+    "console": "",
+    "cmd": false
+  },
+  "404": {
+    "type": "content",
+    "value": "page not found.",
+    "console": "",
+    "cmd": false
+  }
+}
