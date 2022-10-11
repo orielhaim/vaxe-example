@@ -5,7 +5,12 @@ Run in shell:
 ```sh
 npm i vaxe
 ```
-## Copy example from github
+## Help
+Run in shell:
+```sh
+vaxe help
+```
+## Clone Example
 Run in shell:
 ```sh
 git clone https://github.com/orielhaim/vaxe-example.git
